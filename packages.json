@@ -1,0 +1,9 @@
+{
+  "name": "gemini-hackathon",
+  "version": "1.0.0",
+  "description": "Gemini 3 Hackathon Projects",
+  "scripts": {
+    "build": "echo 'No build step required'"
+  }
+}
+

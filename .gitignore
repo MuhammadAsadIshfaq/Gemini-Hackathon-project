@@ -41,7 +41,9 @@ env/
 Thumbs.db
 
 # Streamlit
-.streamlit/
+# Keep config.toml for deployment
+.streamlit/secrets.toml
+.streamlit/credentials.toml
 
 # Logs
 *.log
